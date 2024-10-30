@@ -1,26 +1,31 @@
-### Md Abu Hemjal 👋
+## Md Abu Hemjal 
 
-# Hi there! 👋 Welcome to My GitHub Profile
+I’m **Hemjal**, and I’m passionate about crafting efficient, scalable solutions and building projects that push boundaries.
 
-I’m **Hemjal**, and I’m passionate about crafting efficient, scalable solutions and building projects that push boundaries. Here’s a bit more about me:
+Please find my latest open source project work at my gitlab profile:
+
+https://gitlab.com/hemjal1
+
+Here’s a bit more about me:
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **[mention your current project or technology here]**
-- 🌱 Exploring **[mention any technologies you're currently learning]** and looking for new ways to improve.
-- 💬 Feel free to reach out with questions on **[mention specific languages or fields here]**.
+- 🔭 Currently working on IoT Technology.
+- 🌱 Exploring Cloud Native Technologies and looking for new ways to improve.
 - 💼 Open to collaborative projects, freelancing, and new professional opportunities.
   
 ### 💡 My Expertise
-- **Languages:** [mention the programming languages you're skilled in, e.g., Python, JavaScript, Go, etc.]
-- **Frameworks and Tools:** [mention any frameworks, libraries, or tools you frequently use]
-- **Interests:** [mention your fields of interest, like AI, web development, cloud computing, etc.]
+- **Languages:** Python, JavaScript, Go, C, C++ etc.
+<!-- - **Frameworks and Tools:** [mention any frameworks, libraries, or tools you frequently use] -->
+- **Interests:** Kubernetes, AI, web development, cloud computing, etc.
 
 ### 🌐 Connect with Me
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio: [Your Portfolio URL]
+- LinkedIn: https://www.linkedin.com/in/hemjal1971/
+- Gitlab: https://gitlab.com/hemjal1
+- Portfolio: http://hemjal1.gitlab.io/portfolio/
+- Credly: https://www.credly.com/users/md-abu-hemjal
 
-### 📈 My Stats
-![Hemjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HemjalCF&show_icons=true&theme=radical)
+<!-- ### 📈 My Stats
+![Hemjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HemjalCF&show_icons=true&theme=radical) -->
 
-Feel free to explore my repositories below, and don't hesitate to leave a star if something interests you! 😊
+Feel free to explore my repositories below, and don't hesitate to contact me if something interests you! 😊
 
